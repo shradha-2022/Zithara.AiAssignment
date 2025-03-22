@@ -23,7 +23,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 ![Screenshot 41](https://raw.githubusercontent.com/shradha-2022/Zithara.AiAssignment/master/Screenshot%20(41).png)
 ![Screenshot 42](https://raw.githubusercontent.com/shradha-2022/Zithara.AiAssignment/master/Screenshot%20(42).png)
 ![Screenshot 43](https://raw.githubusercontent.com/shradha-2022/Zithara.AiAssignment/master/Screenshot%20(43).png)
-![Screenshot 44](https://raw.githubusercontent.com/shradha-2022/Zithara.AiAssignment/master/Screenshot%20(43).png)
+![Screenshot 44](https://raw.githubusercontent.com/shradha-2022/Zithara.AiAssignment/master/Screenshot%20(44).png)
 
 
 
